@@ -1,0 +1,5 @@
+{
+  "name": "SanggahPintar",
+  "description": "Aplikasi manajemen sanggah absen pegawai dengan fitur master data, tanda tangan digital, dan bantuan AI untuk penulisan alasan.",
+  "requestFramePermissions": []
+}
